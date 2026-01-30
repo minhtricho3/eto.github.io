@@ -1,6 +1,6 @@
 /* 1. Thiết lập chung */
 body {
-    background-color: #e9ecef;
+    background-color: #8f87e8;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -11,7 +11,7 @@ body {
 
 /* 2. Định dạng chiếc thẻ */
 .profile-card {
-    background: #ffffff;
+    background: #d54545;
     width: 300px;
     padding: 30px;
     text-align: center;
