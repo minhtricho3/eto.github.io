@@ -2,7 +2,7 @@
 body {
     background-color: rgb(129, 120, 225);
     font-family: Arial, sans-serif;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     height: 100vh;
